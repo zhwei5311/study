@@ -1,0 +1,5 @@
+#\u674E\u56DB\u5C06\u5206\u6570\u4FEE\u6539\u4E3A100\u5206
+#Sat Dec 07 15:06:25 CST 2019
+zhangsan=90
+lisi=100
+wangwu=85
